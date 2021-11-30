@@ -1,0 +1,6 @@
+aws-cdk.core>=1.134.0
+aws-cdk.assertions>=1.134.0
+aws_cdk.aws_ec2
+aws_cdk.aws_ecs
+aws_cdk.aws_ecs_patterns
+aws_cdk.aws_elasticloadbalancingv2
